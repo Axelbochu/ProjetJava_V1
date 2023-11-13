@@ -1,7 +1,7 @@
 package Employés;
 
 import Produit.Produit;
-
+// Mathis est dans la place ! Faites de la place !
 public class Manager extends Employe {
 
     //Attribut
